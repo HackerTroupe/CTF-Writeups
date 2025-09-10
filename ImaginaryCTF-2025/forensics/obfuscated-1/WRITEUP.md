@@ -1,8 +1,13 @@
 ## Obfuscated-1
 
 **Name:** obfuscated-1
+
 **Category:** Forensics
+
 **Author:** Eth007
+
+**Solved By** `s0c41dgvns`
+
 **Description:**
 
 > I installed every old software known to man... The flag is the VNC password, wrapped in ictf{}.

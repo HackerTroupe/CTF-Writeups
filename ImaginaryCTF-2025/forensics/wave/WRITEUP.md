@@ -1,10 +1,10 @@
 ## Wave
 
 **Name:** wave
-
 **Category:** Forensics
-
 **Author:** Eth007
+**Solved By** `s0c41dgvns`
+
 
 **Description:**
 
