@@ -17,8 +17,6 @@
 
 **Flag:** `ictf{8ee2ebc4085927c0dc85f07303354a05}`
 
-**Solved By** `s0c41dgvns`
----
 
 ### 💡 Intuition
 
