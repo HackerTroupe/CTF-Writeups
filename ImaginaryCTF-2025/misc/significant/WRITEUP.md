@@ -1,6 +1,6 @@
-**Name:** significant
-**Category:** Misc
-**Author:** puzzler7
+**Name:** significant  
+**Category:** Misc  
+**Author:** puzzler7  
 **Solved by:** Y0RU1CH1
 
 **Description:**

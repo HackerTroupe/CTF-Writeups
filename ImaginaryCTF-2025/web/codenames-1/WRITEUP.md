@@ -1,6 +1,6 @@
-**Name:** codenames-1
-**Category:** Web
-**Author:** Eth007
+**Name:** codenames-1  
+**Category:** Web  
+**Author:** Eth007  
 **Solved by:** Y0RU1CH1
 
 **Description:**

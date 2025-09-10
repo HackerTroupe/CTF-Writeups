@@ -1,7 +1,7 @@
-**Name:** certificate
-**Category:** Web
-**Author:** Eth007
-**Solved by:** Y0RU1CH1
+**Name:** certificate  
+**Category:** Web  
+**Author:** Eth007  
+**Solved by:** Y0RU1CH1  
 
 **Description:**
 
