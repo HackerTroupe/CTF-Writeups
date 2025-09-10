@@ -1,4 +1,4 @@
-# HackerTroupe – CTF Writeups
+# HackerTroupe - CTF Writeups
 
 Welcome to the official **CTF Writeups Repository** of [HackerTroupe](https://github.com/HackerTroupe).  
 We are an Cybersecurity & Blockchain Security Research & CTF team from India, currently ranked on [CTFtime](https://ctftime.org/team/382929).  
@@ -12,17 +12,15 @@ Our goal is to **learn, share knowledge, and grow together** as a team while con
 
 ```
 CTF-Writeups/
-├── <CTF-Name-Year>/ # Each CTF in its own folder
-│ ├── README.md # Overview of the CTF (rank, score, etc.)
-│ ├── web/ # Web challenges
-│ │ └── <challenge-name>/
-│ │ ├── writeup.md
-│ │ └── files/ # Exploits, payloads, scripts
-│ ├── crypto/
-│ ├── pwn/
-│ ├── rev/
-│ ├── forensics/
-│ └── misc/
+├── ImaginaryCT-2025/
+│   ├── README.md # Overview of the CTF
+│   ├── team-summary.md   # Who solved what + highlights
+│   ├── web/
+│   ├── rev/
+│   ├── pwn/
+│   ├── crypto/
+│   ├── forensics/
+│   └── misc/
 ```
 
 ## 📝 About Writeups

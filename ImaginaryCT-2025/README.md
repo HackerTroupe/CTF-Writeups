@@ -1,4 +1,4 @@
-# ImaginaryCTF 2025 — Writeups
+# ImaginaryCTF 2025 - Writeups
 
 Welcome to our team’s writeups for **ImaginaryCTF 2025**.  
 We participated as **HackerTroupe** and finished at **Rank 215**.  
