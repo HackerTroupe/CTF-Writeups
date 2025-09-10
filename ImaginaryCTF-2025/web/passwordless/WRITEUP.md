@@ -4,6 +4,8 @@
 
 **Author:** Ciaran
 
+**Solved By** `s0c41dgvns`
+
 **Description:**
 
 > Didn't have time to implement the email sending feature but that's ok, the site is 100% secure if nobody knows their password to sign in!
